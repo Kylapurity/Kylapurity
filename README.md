@@ -1,6 +1,6 @@
 - ### Hi there 👋, Hi there 
 #### My name is Purity Kyla. I am a web developer.
-![My name is Purity Kyla. I am a web developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![My name is Purity Kyla. I am a web developer.](https://miro.medium.com/v2/resize:fit:1200/0*M4bxiCIjcTK-2Xr6.jpeg)
 
 
 I am in love with coding and a creative mindset, I specialize in building beautiful and functional websites and web applications that cater to the unique needs of clients and users alike. My goal is to write clean and efficient code and create engaging digital experiences that leave a lasting impression.
